@@ -4,36 +4,6 @@ published: 2023-08-01
 description: This post demonstrates how to include embedded video in a blog post.
 tags: [Example, Video]
 category: Examples
-draft: false
----
-
-Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.
-
-```yaml
----
-title: Include Video in the Post
-published: 2023-10-19
-// ...
----
-
-<iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-```
-
-## YouTube
-
-<iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Bilibili
-
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
----
-title: Network Security | Thailand Cyber Top Talent 2025 junior [Qualifier]
-published: 2025-09-03
-description: CTF-Writeup THCTT 2025 junior [Qualifier] | Network Security kub pom :)
-image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*bk_aSDegtilLL4x1O29XoA.png
-tags: [Thailand Cyber Top Talent, network security, ctf, NCSA]
-category: CTF-Writeup
-draft: true
 ---
 
 # Network Security | Thailand Cyber Top Talent 2025 Junior [Qualifier]

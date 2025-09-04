@@ -5,7 +5,7 @@ description: CTF-Writeup THCTT 2025 junior [Qualifier] | Network Security kub po
 image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*bk_aSDegtilLL4x1O29XoA.png
 tags: [Thailand Cyber Top Talent, network security, ctf, NCSA]
 category: CTF-Writeup
-draft: true
+draft: false
 ---
 
 # Network Security | Thailand Cyber Top Talent 2025 Junior [Qualifier]
