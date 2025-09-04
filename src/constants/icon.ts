@@ -41,4 +41,7 @@ export const defaultFavicons: Favicon[] = [
 		theme: "dark",
 		sizes: "192x192",
 	},
+	{
+		src: "/favicon/HatoriHeiji.jpg"
+	}
 ];
